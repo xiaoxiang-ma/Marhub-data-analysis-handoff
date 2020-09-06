@@ -1,0 +1,383 @@
+,null_counts,null_percent,dtype,sample_value
+Mona Unique Session ID,0,0.0,object,003b4c8a-fa26-4d7c-bb47-c27109b757e3.2019-07-26T11:31:28.453242+03:00
+Mona Unique User ID,169,0.22,object,22975d7c-8975-4578-9286-9d8221d83a14
+Created on,0,0.0,datetime64[ns],2019-10-07 08:21:19
+Created by,0,0.0,object,Brooke Sauro
+Pipeline,0,0.0,object,Mona
+Date of Referral,0,0.0,datetime64[ns],2019-08-05 00:00:00
+First Referral,0,0.0,object,Yes
+In IRAP Process,0,0.0,object,No
+Screening Stage,0,0.0,object,Screening Complete
+Screener,1,0.0,object,Tiba Fatli
+Date of Screening Start,0,0.0,datetime64[ns],2019-07-26 00:00:00
+Program Eligibilities,8,0.01,object,Vulnerability-Based RST and Protection
+Legal Assistance Identified,41,0.05,object,Vulnerability RST or Protection Referral (Unspecified)
+ILI Assistance Provided ,728,0.95,object,Non-Legal Services Information
+Mona Case Type Identification,43,0.06,object,Accurate
+ Mona Follow up Needed,237,0.31,object,No
+Vulnerability Threshold,77,0.1,float64,0.0
+Screening Decision,5,0.01,object,Cannot Represent
+Date of Screening Decision,0,0.0,datetime64[ns],2019-07-26 00:00:00
+Flags,704,0.92,object,Unresponsive
+Client Location (Country),162,0.21,object,Lebanon
+Client Nationality,156,0.2,object,Syrian
+process_days,0,0.0,float64,0.0
+process_daysA,0,0.0,float64,1.0
+process_daysC,0,0.0,float64,1.0
+Name,173,0.22,object,محمد
+Language,169,0.22,object,ara
+Created On,169,0.22,datetime64[ns],2019-07-27 23:44:20
+URN:Facebook,177,0.23,float64,1224418661015783.0
+URN:Telegram,761,0.99,object,701459180
+Field:Age,177,0.23,float64,35.0
+Field:Gender,174,0.23,float64,1.0
+Field:Nationality1,175,0.23,object,nationality_Syrian
+Field:Nationality2,761,0.99,object,لا
+Field:Current Country,183,0.24,object,curr_country_Lebanon
+Field:Relative Abroad Name1,366,0.48,object,Name: محمد
+Field:Relative Abroad Name2,505,0.66,object,Name: محمد
+Field:Relative Abroad Name3,612,0.8,object,Name: احمد
+Field:Relative Abroad Location1,366,0.48,object,Location: Germany
+Field:Relative Abroad Location2,505,0.66,object,Location: Germany
+Field:Relative Abroad Location3,612,0.8,object,Location: Germany
+Field:Firstname,173,0.22,object,محمد
+Field:Country Of Origin,769,1.0,object,
+Field:Rsc,183,0.24,object,ICMC
+Field:Unhcr Case File Family Name 1,353,0.46,object,زوجتي
+Field:Unhcr Case File Family Name 2,407,0.53,object,محمد
+Field:Rsc Case Status Portal,183,0.24,object,rsc.icmc.net/login
+Field:Rsc Contact Email,183,0.24,object,info.rsc@icmc.net
+Field:Unhcr Number,371,0.48,object,245-13C25631
+Field:Phone Number,260,0.34,object,96371051116
+Field:Unhcr Case Status Portal,695,0.9,object,results.unhcr.org.tr/
+Field:Aggr 1 Threat Within Last 6 Months,656,0.85,object,Threat Severity: 5
+Field:Aggr 1 Attack Within Last 6 Months,661,0.86,object,Attack Severity: 1
+Field:Aggr 1 Mst Svr Threat,755,0.98,object,5
+Field:Aggr 1 Mst Svr Attack,699,0.91,object,Severity of Most Serious Attack: 5
+Field:Aggr 1 Mst Svr Only Threats,704,0.92,object,Severity of Most Serious Threat if Only Threats: 5
+Field:Threat Within Last 6 Months,623,0.81,object,Threat Severity: 5
+Field:Attack Within Last 6 Months,672,0.87,object,Attack Severity: 1
+Field:Mst Svr Threat,760,0.99,object,5
+Field:Mst Svr Attack,716,0.93,object,5
+Field:Mst Svr Only Threats,682,0.89,object,5
+Field:Aggr 2 Attack Within Last 6 Months,734,0.95,object,Attack Severity: 2
+Field:Aggr 2 Threat Within Last 6 Months,733,0.95,object,Threat Severity: 5
+Field:Aggr 2 Mst Svr Attack,745,0.97,object,Severity of Most Serious Attack: 5
+Field:Aggr 2 Mst Svr Threat,767,1.0,object,2
+Field:Aggr 2 Mst Svr Only Threats,749,0.97,object,3
+Field:Aggr 3 Attack Within Last 6 Months,762,0.99,object,Attack Severity: 2
+Field:Aggr 3 Threat Within Last 6 Months,760,0.99,object,5
+Field:Aggr 3 Mst Svr Attack,765,0.99,object,3
+Field:Aggr 3 Mst Svr Threat,768,1.0,object,Severity of Most Serious Threat: 5
+Field:Aggr 3 Mst Svr Only Threats,764,0.99,object,5
+Field:Unhcr Case File Family Age 1,353,0.46,object,25
+Field:Unhcr Case File Family Relation 1,353,0.46,object,زوجتي
+Field:Unhcr Case File Family Age 2,407,0.53,object,5
+Field:Unhcr Case File Family Gender 2,407,0.53,object,ذكر
+Field:Unhcr Case File Family Relation 2,407,0.53,object,ابني
+Field:Unhcr Case File Family Name 3,474,0.62,object,محمد
+Field:Unhcr Case File Family Age 3,474,0.62,object,3
+Field:Unhcr Case File Family Gender 3,474,0.62,object,ذكر
+Field:Unhcr Case File Family Relation 3,474,0.62,object,ابني
+Field:Unhcr Case File Family Age 4,562,0.73,object,6
+Field:Unhcr Case File Family Name 4,562,0.73,object,محمد
+Field:Unhcr Case File Family Gender 4,562,0.73,object,ذكر
+Field:Unhcr Case File Family Relation 4,562,0.73,object,ابني
+Field:Unhcr Case File Family Name 5,662,0.86,object,محمد
+Field:Unhcr Case File Family Age 5,662,0.86,object,2
+Field:Unhcr Case File Family Gender 5,662,0.86,object,أنثى
+Field:Unhcr Case File Family Relation 5,662,0.86,object,ابنتي
+Field:Fam Num,351,0.46,object,fourth
+Field:Medical Condition 1 Afftd Fam Mbr,511,0.66,object,أنا
+Field:Medical Condition 1 Name,511,0.66,object,السكري
+Field:Medical Condition 1 Inc Treatment,511,0.66,object,لا
+Field:Medical Condition 1 Treatment Abroad,511,0.66,object,نعم
+Field:Medical Condition 1 Assessment,511,0.66,object,5
+Field:I 130 Relative Name 1,762,0.99,object,Jennifer
+Field:Marital Status,174,0.23,object,Married
+Field:I 130 Relative Relation 1,763,0.99,object,sister
+Field:I 130 Relative Legal Status 1,762,0.99,object,مواطنة أمريكية
+Field:I 130 Relative Gender 1,762,0.99,object,أنثى
+Field:Siv Follow To Join Relative Name 1,768,1.0,object,سامر
+Field:Siv Follow To Join Relative Rltn 1,768,1.0,object,husband
+Field:Siv Follow To Join Relative Gender 1,768,1.0,object,ذكر
+Field:Dap Siv Relative Name 1,765,0.99,object,Misaa
+Field:Dap Siv Relative Relation 1,765,0.99,object,brother
+Field:Dap Siv Relative Legal Status 1,765,0.99,object,حامل بطاقة خضراء
+Field:Dap Siv Relative Gender 1,765,0.99,object,ذكر
+Field:P 3 Relative Name 1,768,1.0,object,محمدسلهب
+Field:P 3 Relative Relation 1,769,1.0,object,
+Field:P 3 Relative Pathway 1,768,1.0,object,اللجوء
+Field:Medical Condition 2 Afftd Fam Mbr,610,0.79,object,أنا
+Field:Medical Condition 2 Name,610,0.79,object,ربو
+Field:Medical Condition 2 Inc Treatment,610,0.79,object,لا
+Field:Medical Condition 2 Treatment Abroad,610,0.79,object,نعم
+Field:Medical Condition 2 Assessment,610,0.79,float64,5.0
+Field:Medical Condition 3 Afftd Fam Mbr,703,0.91,object,أنا
+Field:Medical Condition 3 Name,703,0.91,object,ربو
+Field:Medical Condition 3 Inc Treatment,703,0.91,object,لا
+Field:Medical Condition 3 Treatment Abroad,703,0.91,object,نعم
+Field:Medical Condition 3 Assessment,703,0.91,float64,4.0
+Field:Traumatic Incident 1 Date,390,0.51,object,2012
+Field:Traumatic Incident 1 Assessment,390,0.51,float64,5.0
+Field:Traumatic Incident 1 Nrt Rsp,523,0.68,object,تخطي
+Field:Traumatic Incident 1 Ong Mdl Needs,390,0.51,object,لا
+Field:Traumatic Incident 2 Date,648,0.84,object,2012
+Field:Traumatic Incident 2 Assessment,648,0.84,float64,5.0
+Field:Traumatic Incident 2 Nrt Rsp,689,0.9,object,حاله نفسيه بسبب موت احد افراد عائلتي
+Field:Unhcr Case File Family Name 6,723,0.94,object,محمد
+Field:Unhcr Case File Family Age 6,723,0.94,object,11
+Field:Unhcr Case File Family Gender 6,723,0.94,object,أنثى
+Field:Unhcr Case File Family Relation 6,723,0.94,object,ابني
+Field:P 3 Relative Gender 1,768,1.0,object,ذكر
+Field:Unhcr Case File Family Gender 1,353,0.46,object,أنثى
+Field:USRAP Case Number,761,0.99,object,947_12C10430
+Field:western-right,484,0.63,float64,5.0
+Field:western-left,484,0.63,float64,3.0
+Field:Minor or Adult,174,0.23,object,Adult
+Field:Unhcr Case File Family AdultMinor 1,353,0.46,object,Minor
+Field:Unhcr Case File Family Adultminor 2,407,0.53,object,Adult
+Field:Unhcr Case File Family Adultminor 3,474,0.62,object,Adult
+Field:Unhcr Case File Family Adultminor 4,562,0.73,object,Adult
+Field:Unhcr Case File Family Adultminor 5,662,0.86,object,Adult
+Field:Unhcr Case File Family Adultminor 6,723,0.94,object,Adult
+Field:USRAP Access,755,0.98,object,USRAP Access
+Field:US Prior Admission,763,0.99,object,RTD/RRV
+Field:Hired Lawyer,259,0.34,object,No
+Field:SIV Follow to Join,768,1.0,object,SIV Follow to Join
+Field:I 130 IR,768,1.0,object,I-130 IR
+Field:I 130 F,765,0.99,object,I-130 F
+Field:SIV,767,1.0,object,SIV
+Field:DAP as Relative of SIV,769,1.0,object,
+Field:P 3,768,1.0,object,P-3
+Field:DAP via I 130,765,0.99,object,DAP via I-130
+Field:DAP via EV,769,1.0,object,
+Field:Canadian Private Sponsorship,678,0.88,object,Canadian Private Sponsorship
+Field:Germany Family Reunification,556,0.72,object,Germany Family Reunification
+Field:ICORN CPJ,748,0.97,object,ICORN CPJ
+Field:SVT,284,0.37,object,YES
+Field:Women and Girls at Risk,387,0.5,object,NO
+Field:Lack of Durable Solutions,435,0.57,object,YES
+Field:Unaccompanied Minor,284,0.37,object,NO
+Field:LGBT,284,0.37,object,NO
+Field:LPPN Score,416,0.54,float64,0.0
+Field:Rating Last 6 Months,563,0.73,float64,5.0
+Field:Rating Most Severe,563,0.73,float64,5.0
+Field:SVT Rating Aggressor,560,0.73,object,Aggressor SVT Rating: 0
+Field:Aggressor Score,562,0.73,float64,6.0
+Field:Multiple Incidents,591,0.77,object,Yes
+Field:Aggressor 1 Score,550,0.72,float64,6.0
+Field:Aggressor 2 Score,490,0.64,float64,0.0
+Field:Aggressor 3 Score,457,0.59,float64,0.0
+Field:SVT Medical Condition,511,0.66,object,No
+Field:Medical Condition Inc Treatment,511,0.66,object,No
+Field:Medical Condition Treatment Abroad,511,0.66,object,Yes
+Field:Medical Condition Assessment,511,0.66,float64,5.0
+Field:Medical Condition Afftd Fam Member,511,0.66,object,أنا
+Field:Medical Condition Score,511,0.66,float64,5.0
+Field:Medical Condition 1 Score,511,0.66,float64,5.0
+Field:Medical Condition 2 Score,511,0.66,float64,0.0
+Field:Medical Condition 3 Score,511,0.66,float64,0.0
+Field:Medical Needs Score,284,0.37,float64,0.0
+Field:ARcurrentcountry,183,0.24,object,لبنان
+Field:fullrsc,183,0.24,object,International Catholic Migration Commission (ICMC)
+Field:arfullrsc,183,0.24,object,اللجنة الكاثوليكية الدولية للهجرة (ICMC أو الآي سي أم سي)
+Field:arrsc,183,0.24,object,الآي سي أم سي
+Field:arnationality1,175,0.23,object,سوري
+Field:SIV follow to join Relative Rltn 1ar,768,1.0,object,زوجك
+Field:I 130 Relative Relation 1 AR,763,0.99,object,أختك
+Field:DAP SIV Relative Relation 1 AR,765,0.99,object,أخ
+Field:P 3 Relative Relation 1 AR,769,1.0,object,
+Field:AR Full Name,260,0.34,object,لينا عماد بدوي
+Field:arfamnum,351,0.46,object,رابع
+Field:Ongoing USRAP,183,0.24,object,No
+Field:Previous US Resettlement,183,0.24,object,No
+Field:Resettlement Relatives,188,0.24,object,Yes
+Field:Worked for USG,765,0.99,object,Worked for USG
+Field:Family Worked for USG,765,0.99,object,Family member worked for USG
+Field:Writer or Artist,747,0.97,object,Writer/Artist
+Field:Unhcr Case File Family Additional,746,0.97,object,3
+Field:Legal Residency Issue Description,469,0.61,object,نعم
+Field:Reasons Unsafe Open Ended,624,0.81,object,بسبب الأوضاع المعيشية والامنية.
+Field:Aggr Name,449,0.58,object,Name of Aggressor: مجهول
+Field:Aggr 1 Name,449,0.58,object,Name of Aggressor: مجهول
+Field:Aggr 2 Name,656,0.85,object,Name of Aggressor: مجهول
+Field:Aggr 3 Name,746,0.97,object,Name of Aggressor: مجهول
+Field:Date Most Recent Incident,560,0.73,object,15-6-2019.
+Field:Aggr 1 Date Most Recent Incident,548,0.71,object,15-6-2019.
+Field:Aggr 2 Date Most Recent Incident,698,0.91,object,01-07-219.
+Field:Aggr 3 Date Most Recent Incident,753,0.98,object,15-04-2019.
+Field:Open Ended Incident within 6 Months,560,0.73,object,Description of Threat: تخطي الرد
+Field:Threat Open Ended,623,0.81,object,Description of Threat: تخطي الرد
+Field:Attack Open Ended,594,0.77,object,Description of Attack: تخطي الرد
+Field:Open Ended Mst Svr,636,0.83,object,Description of Threat: تخطي الرد
+Field:Incident Frequency,581,0.76,object,Frequency: بضع مرات في السنة
+Field:Aggr 1 Open Ended Within 6 Months,548,0.71,object,Description of Threat: تخطي الرد
+Field:Aggr 2 Open Ended Within 6 Months,697,0.91,object,تخطي الرد.
+Field:Aggr 3 Open Ended Within 6 Months,753,0.98,object,Description of Threat: تخطي الرد
+Field:Aggr 1 Open Ended Mst Svr,620,0.81,object,Description of Threat: تخطي الرد
+Field:Aggr 2 Open Ended Mst Svr,723,0.94,object,تخطي الرد.
+Field:Aggr 3 Open Ended Mst Svr,759,0.99,object,Description of Attack: تخطي الرد
+Field:Aggr 1 Incident Frequency,584,0.76,object,Frequency: بضع مرات في السنة
+Field:Aggr 3 Incident Frequency,754,0.98,object,Frequency: كل أسبوع
+Field:Aggr 2 Incident Frequency,708,0.92,object,Frequency: بضع مرات في السنة
+Field:Move to Avoid Aggressor,560,0.73,object,Moved to Avoid This Aggressor: Unable
+Field:Aggr 1 SVT Rating,548,0.71,object,Aggressor SVT Rating: 0
+Field:Aggr 2 SVT Rating,698,0.91,object,Aggressor SVT Rating: 0
+Field:Aggr 3 SVT Rating,753,0.98,object,Aggressor SVT Rating: 2
+Field:Threats Since Moving,686,0.89,object,Received Threats Since Moving: Yes
+Field:Illness,284,0.37,object,Yes
+Field:Medical Condition 1 SVT,511,0.66,object,لا
+Field:Medical Condition 2 SVT,610,0.79,object,لا
+Field:Medical Condition 3 SVT,703,0.91,object,لا
+Field:Women and Girls Severity Assessment,760,0.99,object,5
+Field:Women and Girls Open Ended,763,0.99,object,انا ارملة ولدي طفل وبنت
+Field:Years in Current Country,284,0.37,float64,6.0
+Field:Current Country Open Ended,470,0.61,object,حسنا
+Field:Relative Abroad Name,366,0.48,object,Name: محمد
+Field:Relative Abroad Location,366,0.48,object,Location: Germany
+Field:Relative Abroad Name4,693,0.9,object,Name: محمد
+Field:Relative Abroad Location4,693,0.9,object,Location: Germany
+Field:Relative Abroad Name5,718,0.93,object,Name: رضوان
+Field:Relative Abroad Location5,718,0.93,object,Location: Germany
+Field:Relative Abroad Open Ended,734,0.95,object,حسنا
+Field:US Relative Relationship,401,0.52,object,Relationship: ابن عمي
+Field:US Relative Legal Status,763,0.99,object,Legal status: LPR
+Field:US Relative How Status,763,0.99,object,Mode of entry: Other
+Field:US Relative Dateaction,763,0.99,object,Date of entry: 1-1-2000
+Field:US Relative Age,763,0.99,object,Age: Over 21
+Field:US Relative Relationship1,400,0.52,object,Relationship: اخي
+Field:US Relative Age1,762,0.99,object,Age: Over 21
+Field:US Relative Legal Status1,760,0.99,object,Legal status: USC
+Field:US Relative How Status1,760,0.99,object,Mode of entry: Refugee resettlement
+Field:US Relative Dateaction1,760,0.99,object,Date of entry: 10-6-1995
+Field:US Relative Relationship2,525,0.68,object,Relationship: ابن عمي
+Field:US Relative Age2,763,0.99,object,Age: Over 21
+Field:US Relative Legal Status2,763,0.99,object,Legal status: LPR
+Field:US Relative How Status2,763,0.99,object,Mode of entry: Refugee resettlement
+Field:US Relative Dateaction2,763,0.99,object,Date of entry: 1-10-2017
+Field:US Relative Relationship3,629,0.82,object,Relationship: ابن عمي
+Field:US Relative Age3,767,1.0,object,Age: Over 21
+Field:US Relative Legal Status3,767,1.0,object,Legal status: LPR
+Field:US Relative How Status3,767,1.0,object,Mode of entry: Refugee resettlement
+Field:US Relative Dateaction3,767,1.0,object,Date of entry: 27-7-2010
+Field:US Relative Relationship4,702,0.91,object,Relationship: ابن عمي
+Field:US Relative Age4,767,1.0,object,Age: Over 21
+Field:US Relative Legal Status4,767,1.0,object,Legal status: LPR
+Field:US Relative How Status4,767,1.0,object,Mode of entry: Refugee resettlement
+Field:US Relative Dateaction4,767,1.0,object,Date of entry: 18-4-2017
+Field:US Relative Relationship5,722,0.94,object,Relationship: اختي
+Field:US Relative Age5,768,1.0,object,Age: Over 21
+Field:US Relative Legal Status5,768,1.0,object,Legal status: Other
+Field:US Relative How Status5,768,1.0,object,Mode of entry: Other
+Field:US Relative Dateaction5,768,1.0,object,Date of entry: 1-1-2000
+Field:Traumatic Incident 2 Ong Mdl Needs,614,0.8,object,لا
+Field:EN Full Name,260,0.34,object,[Not provided]
+Field:Email Address1,262,0.34,object,Waelbadwi319@gmail.com
+Field:RFR,763,0.99,object,RFR
+Field:Date of entry into the United States,763,0.99,object,Date of entry: شهر 2013-4
+Field:Mode of Entry,763,0.99,object,Mode of entry: Other
+Field:Date of Departure from United States,763,0.99,object,Date of departure: انا ب لبنان
+Field:Period Spent Outside United States,763,0.99,object,Period Spent Outside the United States: 8 سنين
+Field:Reason Remained Abroad,763,0.99,object,اريد العودة إلى أمريكا أو السفر الى دولة أخرى بسبب الوضع الأمني في الشرق الأوسط وما تعرضنا له انا و زوجي من تهجير وخطف وتهديد بالموت لأننا مسيحيين
+Field:Attempts to Return,763,0.99,object,انا من ٢٠١١ في لبنان لم اخرج من لبنان
+Field:Supportive US Ties,763,0.99,object,اي خالي رياض ورضوان
+Field:RFR within deadline,769,1.0,object,
+Field:Denial Grounds,763,0.99,object,Credibility
+Field:Date of NOI,766,1.0,object,2019-09-28T12:48:00.086002+03:00
+Field:Mexico Passport Type,769,1.0,object,
+Field:I-130 Filed,769,1.0,object,
+Field:EO Waiver,768,1.0,object,EO Waiver
+Field:I-130 Approved,769,1.0,object,
+Field:I-130 Expedite Submitted,769,1.0,object,
+Field:SIV 101a,769,1.0,object,
+Field:Testing Only,769,1.0,object,
+Field:Has UNHCR file,331,0.43,object,نعم
+Field:Open Ended Additional SVT Info,746,0.97,object,2014 في طريقي الى الجامعة في دمشق تم توقيفي وضربي على احدى النقاط التفتيشية في مدينة دمشق
+Field:Unique Session ID,169,0.22,object,22975d7c8975457892869d8221d83a1420200114T1242429518870200
+Field:USRAP Info Response,749,0.97,object,نعم
+Field:USRAP Info Rating,749,0.97,object,5
+Field:I130 Info Rating,769,1.0,float64,
+Field:I130 Info Response,769,1.0,object,
+Field:P3 Info Rating,768,1.0,float64,5.0
+Field:P3 Info Response,768,1.0,object,هل تستطيع تقديم ملفي للهجرة
+Field:DAPI130 Info Rating,769,1.0,float64,
+Field:DAPI130 Info Response,769,1.0,object,
+Field:DAPEV Info Rating,767,1.0,float64,1.0
+Field:DAPEV Info Response,767,1.0,object,المعلومات حصريا فقط
+Field:Canadian Sponsorship Info Rating,660,0.86,object,5
+Field:Canadian Sponsorship Info Response,660,0.86,object,نعم
+Field:German Reunification Info Rating,533,0.69,object,5
+Field:German Reunification Info Response,534,0.69,object,نعم
+Field:ICORN Info Rating,746,0.97,object,5
+Field:ICORN Info Response,746,0.97,object,👍
+Field:Lebanon UNHCR Info Rating,302,0.39,object,5
+Field:Lebanon UNHCR Info Response,303,0.39,object,نعم
+Field:End Feedback Helpfulness Rating,178,0.23,object,5
+Field:End Feedback Recommend Rating,200,0.26,object,10
+Field:End Feedback Helpfulness Open Ended,199,0.26,object,لا
+Field:End Feedback Recommend Open Ended,206,0.27,object,10
+Field:End Feedback Other Information Needs,212,0.28,object,لا
+Field:End Feedback Follow Up Conversation,237,0.31,object,Yes
+Field:Conversion,371,0.48,object,0096371051116
+Field:SIV 1059,769,1.0,object,
+Field:Reason Unable to Move,736,0.96,object,Reason Unable to Move: Lack of communication and money
+Field:Aggr 1 Moved to Avoid Aggr,645,0.84,object,Moved to Avoid This Aggressor: Unable
+Field:Aggr 1 Threats Since Moving,720,0.94,object,Received Threats Since Moving: Yes
+Field:Aggr 1 Reason Unable to Move,733,0.95,object,Reason Unable to Move: Lack of communication and money
+Field:Aggr 2 Moved to Avoid Aggr,727,0.95,object,Moved to Avoid This Aggressor: Unable
+Field:Aggr 3 Moved to Avoid Aggr,758,0.99,object,Moved to Avoid This Aggressor: Yes
+Field:Aggr 2 Threats Since Moving,752,0.98,object,Received Threats Since Moving: Yes
+Field:Aggr 3 Threats Since Moving,761,0.99,object,Received Threats Since Moving: Yes
+Field:Aggr 2 Reason Unable to Move,763,0.99,object,"Reason Unable to Move: بسبب مدارس الاولاد
+اذا انتقلت لمكان اخر لايسمحو لهم بالنقل
+وبسبب جلسات المحكمة التي يقدمها ضدي بين الحين والاخر، والعمل في الرياض متوفر اكثر من باقي المحافظات الاخره
+وعملي مرتبط في سياحة الاطعام، والعاصمة فيها موارد وفرص اكثر"
+Field:Aggr 3 Reason Unable to Move,769,1.0,object,
+Field:Open Ended Other Threats,761,0.99,object,My wife changed her religion and her parents keep threatening us
+Field:RFR Submission,766,1.0,object,RFR Submission
+Field:Vulnerability Assessed,538,0.7,object,Vulnerability Assessed
+Field:Handoff Timestamp,514,0.67,object,2020-01-14T13:06:09.200927+02:00
+Field:Prescreening Complete,559,0.73,object,Yes
+Field:Pause Handoffs,688,0.89,object,Yes
+Field:Lebanon Location,745,0.97,object,لبنان طرابلس جبل البداوي.
+nationality_Iraqi,0,0.0,uint8,0.0
+nationality_Syrian,0,0.0,uint8,1.0
+curr_country_Burkina Faso,0,0.0,uint8,0.0
+curr_country_Egypt,0,0.0,uint8,0.0
+curr_country_France,0,0.0,uint8,0.0
+curr_country_Germany,0,0.0,uint8,0.0
+curr_country_Indonesia,0,0.0,uint8,0.0
+curr_country_Iraq,0,0.0,uint8,0.0
+curr_country_Jessica.,0,0.0,uint8,0.0
+curr_country_Jordan,0,0.0,uint8,0.0
+curr_country_Kenya,0,0.0,uint8,0.0
+curr_country_Lebanon,0,0.0,uint8,1.0
+curr_country_Libya,0,0.0,uint8,0.0
+curr_country_Malaysia,0,0.0,uint8,0.0
+curr_country_México.,0,0.0,uint8,0.0
+curr_country_Oman,0,0.0,uint8,0.0
+curr_country_Qatar,0,0.0,uint8,0.0
+curr_country_Saudi Arabia,0,0.0,uint8,0.0
+curr_country_Sudan,0,0.0,uint8,0.0
+curr_country_Syria,0,0.0,uint8,0.0
+curr_country_Thailand,0,0.0,uint8,0.0
+curr_country_Turkey,0,0.0,uint8,0.0
+curr_country_Yemen,0,0.0,uint8,0.0
+curr_country_the United Arab Emirates,0,0.0,uint8,0.0
+curr_country_the United Kingdom,0,0.0,uint8,0.0
+curr_country_the United States,0,0.0,uint8,0.0
+curr_country_أوكرانيا,0,0.0,uint8,0.0
+curr_country_إيطاليا,0,0.0,uint8,0.0
+curr_country_اليونان,0,0.0,uint8,0.0
+curr_country_جزيرة كوس اليونان,0,0.0,uint8,0.0
+curr_country_جورجيا تبليسي,0,0.0,uint8,0.0
+curr_country_قطاع غزة,0,0.0,uint8,0.0
+curr_country_كندا,0,0.0,uint8,0.0
+curr_country_نعم أنا في إيطاليا,0,0.0,uint8,0.0
+curr_country_يونان,0,0.0,uint8,0.0
+process_day_>=1,0,0.0,float64,0.0
+process_day_>=7,0,0.0,float64,0.0
+process_dayA_>=1,0,0.0,float64,1.0
+process_dayC_>=1,0,0.0,float64,1.0
+Medical_X_LPPN,416,0.54,float64,0.0
